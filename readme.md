@@ -4,10 +4,10 @@
 
 CONTENT CHANGES IN INDEX.HTML
 
--x Changing the page title to your name (or a title of your choosing)
--x Changing the content of the h1 to match your name
--x Changing the content of the p to match a description or phrase or motto
--x Changing the Facebook, Twitter, Github links to point to your own page- (If you don't have a twitter delete that link). Hint: You will have to change the href attribute value to change where the link points. If you have other links you can add those.
+- xChanging the page title to your name (or a title of your choosing)
+-Changing the content of the h1 to match your name
+-Changing the content of the p to match a description or phrase or motto
+-Changing the Facebook, Twitter, Github links to point to your own page- (If you don't have a twitter delete that link). Hint: You will have to change the href attribute value to change where the link points. If you have other links you can add those.
 
 STYLE / APPEARANCE CHANGES IN STYLE.CSS
 
